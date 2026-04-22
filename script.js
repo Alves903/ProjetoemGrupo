@@ -85,3 +85,5 @@ function entrar(){
     app.classList.add("ativa");
   }, 400);
 }
+
+console.log("Conflito resolvido com sucesso!");
